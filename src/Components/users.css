@@ -1,0 +1,10 @@
+.user {
+  text-align: center;
+}
+
+.user_icon {
+  background-image: url(../img/user.png);
+}
+.b{
+  border: 1px solid black
+}
